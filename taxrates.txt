@@ -1,0 +1,11 @@
+{
+"MA":[
+    {"WIC Eligible Food":0.0, "Clothing":6.25, "Everything Else":6.25}
+]
+"ME":[
+    {"WIC Eligible Food":0.0, "Clothing":5.5, "Everything Else":5.5}
+]
+"NH":[
+    {"WIC Eligible Food":0.0, "Clothing":0.0, "Everything Else":0.0}
+]
+}
